@@ -55,12 +55,6 @@ The system operates on a cyclic graph architecture:
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here: e.g., The Streamlit UI showing the Agents 'thinking' and the final PDF output)*
-
----
-
 ## 🚀 Installation & Usage
 
 1.  **Clone the Repository**
